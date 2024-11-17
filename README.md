@@ -86,6 +86,8 @@ The models use various features including:
 - Feature selection based on correlation analysis
 - Hyperparameter tuning using GridSearchCV
 
+  For more information regarding preprocessing and other details, kindly refer the ML_Report.pdf file
+
 ## Output
 Both implementations generate a submission file named `LendOrLose_submission.csv` containing:
 - LoanID
