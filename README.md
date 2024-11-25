@@ -84,7 +84,7 @@ The models use various features including:
 - One-Hot Encoding for categorical variables
 - Normalization for KNN implementation
 - Feature selection based on correlation analysis
-- Hyperparameter tuning using GridSearchCV
+- Hyperparameter tuning using the GridSearchCV library
 
   For more information regarding preprocessing and other details, kindly refer the ML_Report.pdf file
 
